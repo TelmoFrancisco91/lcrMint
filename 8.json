@@ -1,0 +1,55 @@
+{
+  "name": "Lucrar #8",
+  "description": "Remember to replace this description",
+  "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/8.png",
+  "dna": "c2628db9bd31ff04020a6feb11541f7d4eb8b9a9",
+  "edition": 8,
+  "date": 1646154701455,
+  "attributes": [
+    {
+      "trait_type": "card",
+      "value": "BRONZE"
+    },
+    {
+      "trait_type": "BRONZE1",
+      "value": "BRONZE1"
+    },
+    {
+      "trait_type": "BRONZE2",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "BRONZE3",
+      "value": "BRONZE3"
+    },
+    {
+      "trait_type": "DIAMOND",
+      "value": "DIAMOND"
+    },
+    {
+      "trait_type": "GOLD",
+      "value": "GOLD"
+    },
+    {
+      "trait_type": "SILVER",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "SPECIAL1",
+      "value": "SPECIAL1"
+    },
+    {
+      "trait_type": "SPECIAL2",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "SPECIAL3",
+      "value": "SPECIAL3"
+    },
+    {
+      "trait_type": "SPECIAL4",
+      "value": "SPECIAL4"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

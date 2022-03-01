@@ -1,0 +1,552 @@
+[
+  {
+    "name": "Lucrar #1",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/1.png",
+    "dna": "3fbd1710196e243929195c52e4b99ca8a246c752",
+    "edition": 1,
+    "date": 1646154681306,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "BRONZE1"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "SPECIAL1"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "SPECIAL2"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "NONE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #2",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/2.png",
+    "dna": "513464a3ff69e6800134061aa85fdd3ae27ac085",
+    "edition": 2,
+    "date": 1646154684200,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "DIAMOND"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "SPECIAL1"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #3",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/3.png",
+    "dna": "173a4842edac8e5a608bfcc8b8e6dbfaf3f51ffd",
+    "edition": 3,
+    "date": 1646154686978,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "BRONZE2"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #4",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/4.png",
+    "dna": "86da72360e18d12e5a9db01ec351ed696309a329",
+    "edition": 4,
+    "date": 1646154690391,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "BRONZE1"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "BRONZE2"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "SPECIAL1"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "SPECIAL2"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #5",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/5.png",
+    "dna": "88613f4f5efd335684bff38bd7ae68e742963733",
+    "edition": 5,
+    "date": 1646154693421,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "BRONZE1"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "BRONZE2"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "DIAMOND"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "SPECIAL1"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #6",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/6.png",
+    "dna": "90be5a65d2a0b0368ef05593afcd82f65da10fc5",
+    "edition": 6,
+    "date": 1646154696049,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "DIAMOND"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "NONE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #7",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/7.png",
+    "dna": "b83d214c3f29691970478a4498d24255c41af2f1",
+    "edition": 7,
+    "date": 1646154698722,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "DIAMOND"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "NONE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #8",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/8.png",
+    "dna": "c2628db9bd31ff04020a6feb11541f7d4eb8b9a9",
+    "edition": 8,
+    "date": 1646154701455,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "BRONZE1"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "DIAMOND"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "GOLD"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "SPECIAL1"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "SPECIAL3"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #9",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/9.png",
+    "dna": "70ce36321e252de395a053deae985d70a4e78dcb",
+    "edition": 9,
+    "date": 1646154704433,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "BRONZE1"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "BRONZE2"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "SILVER"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "NONE"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "Lucrar #10",
+    "description": "Remember to replace this description",
+    "image": "https://raw.githubusercontent.com/TelmoFrancisco91/lcrMint/main/10.png",
+    "dna": "cf274dc538936b12f5cfbd73c71f4f5f52ed4be5",
+    "edition": 10,
+    "date": 1646154707353,
+    "attributes": [
+      {
+        "trait_type": "card",
+        "value": "BRONZE"
+      },
+      {
+        "trait_type": "BRONZE1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "BRONZE3",
+        "value": "BRONZE3"
+      },
+      {
+        "trait_type": "DIAMOND",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "GOLD",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SILVER",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL1",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL2",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL3",
+        "value": "NONE"
+      },
+      {
+        "trait_type": "SPECIAL4",
+        "value": "SPECIAL4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
